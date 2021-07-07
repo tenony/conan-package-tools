@@ -2,7 +2,7 @@
 [![codecov](https://codecov.io/gh/conan-io/conan-package-tools/branch/master/graph/badge.svg)](https://codecov.io/gh/conan-io/conan-package-tools)
 ![PyPI - Downloads](https://img.shields.io/pypi/dm/conan-package-tools.svg?style=plastic)
 
-# Conan Package Tools
+# Conan Package Tools test
 
 
 ## Introduction
